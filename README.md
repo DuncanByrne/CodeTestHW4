@@ -17,4 +17,7 @@ links to website and repository
 
 website: https://duncanbyrne.github.io/CodeTestHW4/
 
-repo
+repo:https://github.com/DuncanByrne/CodeTestHW4
+
+
+screenshots:
