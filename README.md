@@ -13,3 +13,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
 https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
 
+links to website and repository
+
+website: https://duncanbyrne.github.io/CodeTestHW4/
+
+repo
