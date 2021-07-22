@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Code Quiz</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<body>
+    <div id="nav">
+        <!-- scores link-->
+        <div class="left">
+            <a onclick="getScore()" href="">
+                <h4>View Highscore</h4>
+            </a>
+        </div>
+        <!-- this is indicates our timer -->
+        <div class="right">
+            <h4>Time: <span id="timeLeft">0</span></h4>
+        </div>
+    </div>
+    <!-- the body section of or quiz -->
+    <div id="quiz">
+        <div id="quizBody">
+            <h1>
+                Code Quiz
+            </h1>
+            <p>Try to answer as many questions correct as you can. Keep in mind that with every wrong answer,
+                10 seconds will me removed from your time! Good Luck!
+            </p>
+            <h3>
+                Click to play!
+            </h3>
+            <button onclick="start()">Start!</button>
+        </div>
+    </div>
+</body>
+<script src="script.js"></script>
+
+</html>
